@@ -391,3 +391,7 @@ orthographic projections.
 At this point, it is a good exercise to build your own pinhole camera
 and experiment with it. Building a pinhole camera helps in acquiring a
 better intuition about the image formation process.
+
+## Questions
+
+1. What if we set the focal lenght to 0?

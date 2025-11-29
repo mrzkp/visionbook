@@ -464,3 +464,12 @@ a parabolic or spherical shape.
 
 Geometric considerations allow depth-of-field calculations, as well as
 the design of a simple telescope.
+
+
+## Questions
+
+1. When may we want a smaller aperture?
+2. Explain the ideal lens shape, assuming no engineering constraints.
+
+
+## Answers
